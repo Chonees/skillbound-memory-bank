@@ -240,16 +240,34 @@
 - **Archivo**: `src\components\SkillMap\CustomNode.jsx`
 - **Props**: id, data
 
-### CircularNode
-
-- **Tipo**: Componente Funcional
-- **Archivo**: `src\components\SkillMap\ActionPath.jsx`
-- **Props**: data
-
 ### ActionPath
 
 - **Tipo**: Componente Funcional
 - **Archivo**: `src\components\SkillMap\ActionPath.jsx`
+
+### SafeHTMLRenderer
+
+- **Tipo**: Componente Funcional
+- **Archivo**: `src\components\SkillMap\components\SafeHTMLRenderer.jsx`
+- **Props**: htmlContent
+
+### LearningModal
+
+- **Tipo**: Componente Funcional
+- **Archivo**: `src\components\SkillMap\components\LearningModal.jsx`
+- **Props**: open, onClose, selectedNode, fetchLearningContent
+
+### GoalsList
+
+- **Tipo**: Componente Funcional
+- **Archivo**: `src\components\SkillMap\components\GoalsList.jsx`
+- **Props**: userGoals, loadingGoals, updatingGoals, animatingGoals, onGoalClick
+
+### CircularNode
+
+- **Tipo**: Componente Funcional
+- **Archivo**: `src\components\SkillMap\components\CircularNode.jsx`
+- **Props**: data
 
 ### ResetPassword
 
@@ -367,5 +385,5 @@
 
 
 ---
-*Creado: 2025-08-01 01:59:16*
-*Última actualización: 2025-08-01 01:59:16*
+*Creado: 2025-08-03 23:45:01*
+*Última actualización: 2025-08-03 23:45:01*

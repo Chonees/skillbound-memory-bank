@@ -19,6 +19,7 @@
 - **express**: ^4.18.2
 - **figma-api**: ^2.0.1-beta
 - **figma-js**: ^1.16.1-0
+- **framer-motion**: ^12.23.12
 - **i18next**: ^24.0.2
 - **i18next-browser-languagedetector**: ^8.0.0
 - **lottie-react**: ^2.4.1
@@ -78,9 +79,10 @@
 - categoryHelpers.js
 - moduleNavigation.js
 - onboardingUtils.js
+- pathPatterns.js
 
 
 
 ---
-*Creado: 2025-08-01 01:59:16*
-*Última actualización: 2025-08-01 01:59:16*
+*Creado: 2025-08-03 23:45:01*
+*Última actualización: 2025-08-03 23:45:01*
